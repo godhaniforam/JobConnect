@@ -1,0 +1,13 @@
+#0f172a
+#0e2431
+#1E293B
+
+id
+comapny id
+user_name
+user_email
+user_phone
+user_location
+user_cover_letter
+folder = "img/user_resume/".$filename;
+

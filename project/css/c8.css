@@ -1,0 +1,97 @@
+body {
+    color: white;
+    background-color: #1E293B;
+    font-family: system-ui;
+}
+
+nav{
+    background-color: #0f172a;
+    font-size: 20px;
+}
+
+.form1{
+    padding-left: 350px;
+    padding-right: 200px;
+    font-size: 20px;
+}
+
+.file{
+    width: 500px;
+    height: 30px;
+    font-size: 15px;
+    color:white;
+    box-shadow: 0px 0px 1px 0px white;
+    border: none;
+    background-color: #0f172a;  
+}
+
+.dropdown-menu{
+    background-color: #0f172a;
+  }
+
+.main_form{
+    background-color: #0f172a;
+    padding-left: 50px;
+    padding-top:10px;
+    height: 1030px;
+    width: 600px;
+    box-shadow: 0px 0px 1px 0px white;
+}
+
+.sel{
+    width: 500px;
+    height: 35px;
+    padding: 5px;
+    font-size: 15px;
+    color:white;
+    box-shadow: 0px 0px 1px 0px white;
+    border: none;
+    background-color: #0f172a;  
+}
+
+.sel2{
+    width: 500px;
+    height: 160px;
+    padding: 10px;
+    font-size: 15px;
+    color:white;
+    box-shadow: 0px 0px 1px 0px white;
+    border: none;
+    background-color: #0f172a; 
+}
+
+.input{
+    width: 500px;
+    height: 35px;
+    padding: 10px;
+    font-size: 15px;
+    color:white;
+    box-shadow: 0px 0px 1px 0px white;
+    border: none;
+    background-color: #0f172a;
+}
+
+.arc-btn-retro {
+    width: 136px;
+    height: 46px;
+    background-color: #19fb9b;
+    border: 1px solid black;
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 17px;
+    transition: .4s;
+  }
+
+  .arc-btn-retro:hover {
+    box-shadow: 5px 6px 0px white;
+  }
+
+  .fcompany{
+    text-decoration: none;
+    color:white;
+  }
+
+
+  .footer{
+    background-color: #0f172a;
+  }

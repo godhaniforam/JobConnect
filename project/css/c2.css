@@ -1,0 +1,63 @@
+body {
+    color: white;
+    background-color: #1E293B;
+    font-family: system-ui;
+}
+
+.dropdown-menu{
+  background-color: #0f172a;
+}
+
+nav{
+    background-color: #0f172a;
+    font-size: 20px;
+}
+
+.image{
+    color:#0f172a;
+    border: 2px solid #0f172a;
+    border-radius: 4px;
+    box-shadow: 0px 10px 20px 2px rgba(0, 0, 0, 0.25);
+    padding: 5px;
+    background-color: #0f172a;
+}
+
+.card {
+    width: 190px;
+    height: 230px;
+    color: white;
+    background-color: #0f172a;
+    border-radius: 15px;
+    padding: 2rem 1.5rem;
+}
+
+.sticky-card{
+    position: sticky;
+    top:20;
+}
+
+  .arc-btn-retro {
+    width: 136px;
+    height: 46px;
+    background-color: #19fb9b;
+    border: 1px solid black;
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 17px;
+    transition: .4s;
+  }
+
+  .arc-btn-retro:hover {
+    box-shadow: 5px 6px 0px white;
+  }
+
+  .ecard1{
+    width:1080px;
+    height: auto;
+    box-shadow: 0px 0px 1px 0px white;
+  }
+
+  .fcompany{
+    text-decoration: none;
+    color:white;
+  }
